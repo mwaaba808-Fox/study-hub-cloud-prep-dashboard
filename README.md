@@ -1,2 +1,2 @@
-# study-hub-cloud-prep-dashboard
+Study Hub
 Study Hub Cloud Prep Dashboard
